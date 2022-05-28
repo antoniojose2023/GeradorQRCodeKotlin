@@ -8,21 +8,12 @@
 
 <div align="left" ><br>
   <p align="left"> * Linguagem de programação utilizada</p>
-  <i class="devicon-kotlin-plain"></i>
   <img align="left" alt="React" height="140" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div><br>
 
 <br><br><br><br>
 <hr>
 
-<div align="left" valign="top"><br>
-  <p align="left"> * Bibliotecas</p><br>
-  <p align="left"> Retrofit</p>
-  <p align="left"> Esta biblioteca facilita o desenvolvedor a trabalhar com requisições abstraindo toda a complexidade</p>
-  <img align="left" alt="React" height="140" width="150" src="https://img.icons8.com/cute-clipart/128/000000/internet-explorer.png"><br><br><br><br><br><br><br><br>
-  <p align="left">Picasso</p>
-   <p align="left"> Usando o Picasso toda a complexidade e abstraida quando trabalhamos com imagens, com pouquissimo código é possivel manipilar imagens em nossos app.</p>
-  <img align="left" alt="Redux" height="140" width="150" src="https://img.icons8.com/color/480/000000/picasa.png"><br><br>
   
 </div><br>
 
