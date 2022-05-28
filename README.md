@@ -18,7 +18,7 @@
   <p align="left"> * Biblioteca</p><br>
   <p align="left">Gerador de QRCode</p>
   <p aling="left">Dependencia para gerar QRCode : 'com.journeyapps:zxing-android-embedded:3.5.0'</p>
-  <img align="left" alt="React" height="140" width="150" src=""><br><br><br><br><br><br><br><br>
+  <img align="left" alt="React" height="140" width="150" src="https://www.canva.com/design/DAFB_dbko-I/7qptthATVgVxve77EXFnDQ/view?utm_content=DAFB_dbko-I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview"><br><br><br><br><br><br><br><br>
    
 </div><br>
 
