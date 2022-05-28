@@ -1,7 +1,5 @@
 # GeradorQRCodeKotlin
 
-# Soccer News
-
 <div>
   <p align="center">Este projeto foi baseado no Lab da DIO 😉️</p>
   <p align="center">Neste App foi implementado o que há de mais moderno no desenvolvimento mobile</p>
@@ -10,6 +8,7 @@
 
 <div align="left" ><br>
   <p align="left"> * Linguagem de programação utilizada</p>
+  <i class="devicon-kotlin-plain"></i>
   <img align="left" alt="React" height="140" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div><br>
 
@@ -30,9 +29,9 @@
 <br><br><br><br>
 <hr>
 <div align="left" valign="top"><br>
-  <p align="left"> * Arquitetura</p><br>
-  <p align="left">MVVM</p>
-  <p aling="left">O padrão de projeto Model-View-ViewModel é uma arquitetura para desenvolvimento de software mais robusta, facilitando assim, na compreensão do código e manuntenção do mesmo</p>
+  <p align="left"> * Biblioteca</p><br>
+  <p align="left">Gerador de QRCode</p>
+  <p aling="left">Dependencia para gerar QRCode : 'com.journeyapps:zxing-android-embedded:3.5.0'</p>
   <img align="left" alt="React" height="140" width="150" src="https://img.icons8.com/cute-clipart/128/000000/internet-explorer.png"><br><br><br><br><br><br><br><br>
    
 </div><br>
