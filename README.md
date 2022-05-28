@@ -1,8 +1,7 @@
 # GeradorQRCodeKotlin
 
 <div>
-  <p align="center">Este projeto foi baseado no Lab da DIO 😉️</p>
-  <p align="center">Neste App foi implementado o que há de mais moderno no desenvolvimento mobile</p>
+  <p align="center">Este é um projeto simples para gerar QrCode personalizado.😉️</p>
 </div>
 
 
