@@ -10,9 +10,7 @@
   <img align="left" alt="React" height="140" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 </div><br>
 
-<br><br><br><br>
 <hr>
-
   
 </div><br>
 
@@ -26,7 +24,6 @@
    
 </div><br>
 
-<br><br><br><br>
 <hr>
 <div align="center">
  <h5 align="center">Rede de contato </h5>
